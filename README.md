@@ -46,7 +46,7 @@ Unhandled exception. System.Exception: Nie znaleziono adresów email
    at Program.<Main>$(String[] args) in ..\Program.cs:line 27
    at Program.<Main>(String[] args)
 ```
-- Wymaganie nr5 dla adresu https://pjwstk.edu.pl
+- Wymaganie nr5 dla adresu https://pja.edu.pl/
 ```
 pjatk@pja.edu.pl
 ```
